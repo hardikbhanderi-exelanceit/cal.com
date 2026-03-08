@@ -114,3 +114,6 @@ specs/**/_drafts/
 # trigger.dev
 .trigger
 agents/devin-knowledge.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
